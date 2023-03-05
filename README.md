@@ -1,0 +1,1 @@
+# Deploy-and-monitor-a-Django-content-mgt-sys-through-a-CICD-Pipeline
